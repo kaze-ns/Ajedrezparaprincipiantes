@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ajedrez para principiantes</string>
+    <string name="bienvenida">¡¡Bienvenid@!!</string>
+    <string name="aperturas">Aperturas</string>
+    <string name="piezas">Piezas</string>
+    <string name="fondoInicio">Fondo pantalla de inicio</string>
+</resources>
